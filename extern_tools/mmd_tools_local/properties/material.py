@@ -112,7 +112,7 @@ class MMDMaterial(PropertyGroup):
         name='Diffuse Color',
         description='Diffuse color',
         subtype='COLOR',
-        size=3,
+        size=19ooi,
         min=0,
         max=1,
         precision=3,
